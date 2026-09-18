@@ -13,6 +13,7 @@
 
 ## 📖 Table of Contents
 
+- [Gameplay Preview](#-gameplay-preview)
 - [Overview & Narrative](#-overview--narrative)
 - [Key Features](#-key-features)
   - [1. Expansive World & Seamless Interiors](#1-expansive-world--seamless-interiors)
@@ -33,6 +34,25 @@
 - [Assets & Attribution](#-assets--attribution)
 - [Roadmap & Project Status](#-roadmap--project-status)
 - [License](#-license)
+
+---
+
+## 📸 Gameplay Preview
+
+| **Exploring Desa Embun (Dew Village)** | **Interactive Dialogue with Nenek Sari** |
+| :---: | :---: |
+| ![Exploring Desa Embun](docs/screenshots/gameplay-village.png) | ![Interactive Dialogue with Nenek Sari](docs/screenshots/gameplay-dialog.png) |
+
+| **Journal, Active Quests & Backpack Inventory** | **Procedural Character Atlas & Building Facades** |
+| :---: | :---: |
+| ![Journal, Quests & Backpack Inventory](docs/screenshots/gameplay-journal.png) | ![Procedural Sprite Atlas & Buildings](docs/screenshots/pixel-art-atlas.png) |
+
+<details>
+<summary><b>🔍 View Welcome Title Screen</b></summary>
+
+![Welcome to Desa Embun](docs/screenshots/title-screen.png)
+
+</details>
 
 ---
 
